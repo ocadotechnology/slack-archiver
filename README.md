@@ -2,7 +2,7 @@
 
 A simple python app that will automatically archive public channels if:
 * the channel is empty.
-* the channel has had no messages or joins for the last X days (i.e. ignoring leaves).
+* the channel has had no activity for the last X days (ignoring leaves).
 
 Also the channel must match the channel name regex pattern.
 
