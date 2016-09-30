@@ -1,0 +1,2 @@
+include versioneer.py
+include slack_archiver/_version.py
